@@ -4,3 +4,7 @@ IN THIS PROJECT, I MADE AN AI-AGENT WITH USE OF PYTHON, HTML, CSS, JAVASCRIPT, A
 IN APP.PY FOLDER WHEN YOU RUN THAT IT'LL GENERATE A LINK THAT'S WHERE YOU CAN USE THE AI AGENT.
 HOPEFULLY YOU WILL ENJOY PLAYING WITH MY AGENT AND ASK ANY KIND OF QUESTION.
 THANK YOU!
+--------------------------------------------------------------------------------------------
+HERE IS THE DIRECT LINK FOR USING AI AGENT 
+https://minnie-ai-agent-prati.onrender.com
+--------------------------------------------------------------------------------------------
